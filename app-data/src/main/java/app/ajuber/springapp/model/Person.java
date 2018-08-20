@@ -1,6 +1,6 @@
 package app.ajuber.springapp.model;
 
-public class Person {
+public class  Person {
 
     private String firstName;
     private String lastName;
